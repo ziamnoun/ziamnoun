@@ -33,23 +33,23 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 ![Project 1 Screenshot](https://i.ibb.co/ckKZw7b/fitfreak.png)
 
-[GitHub Repository](https://github.com/ziamnoun/fitfreak)
+[Live link](https://cerulean-bavarois-ddd558.netlify.app/)
 
-### Project 2: Project Title
-**Description:** A brief description of your project.
-**Technologies:** React, Node.js
+### Project 2: Blog Mania
+**Description:** It is a blog related web site where we can se a vlog,add a blog,Update a blog...
+**Technologies:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
 
-![Project 2 Screenshot](https://yourprojectimageurl.com)
+![Project 2 Screenshot](https://i.ibb.co/p055qC2/blog.png)
 
-[GitHub Repository](https://github.com/ziamnoun/project2)
+[Live Link](https://66439e734ee140141d99ad2a--fluffy-torrone-88ede8.netlify.app/)
 
-### Project 3: Project Title
-**Description:** A brief description of your project.
-**Technologies:** [List of technologies]
+### Project 3: Fine Art
+**Description:** Its a art related website.Here you can see you many kind of art,add art,update art and delete art.
+**Technologies:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
 
-![Project 3 Screenshot](https://yourprojectimageurl.com)
+![Project 3 Screenshot](https://i.ibb.co/fdj9Mxh/Art.png)
 
-[GitHub Repository](https://github.com/ziamnoun/project3)
+[Live link](https://66352b13240d76341ce98582--magical-crisp-1c5563.netlify.app/)
 
 ## 📚 Education
 
