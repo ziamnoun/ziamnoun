@@ -33,7 +33,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 ![Project 1 Screenshot](https://i.ibb.co/ckKZw7b/fitfreak.png)
 
-[Live link](https://cerulean-bavarois-ddd558.netlify.app/)
+[Go to FitFreak web site](https://cerulean-bavarois-ddd558.netlify.app/)
 
 ### Project 2: Blog Mania
 **Description:** It is a blog related web site where we can se a vlog,add a blog,Update a blog...
@@ -41,7 +41,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 ![Project 2 Screenshot](https://i.ibb.co/p055qC2/blog.png)
 
-[Live Link](https://66439e734ee140141d99ad2a--fluffy-torrone-88ede8.netlify.app/)
+[Go to Blog Mania web site](https://66439e734ee140141d99ad2a--fluffy-torrone-88ede8.netlify.app/)
 
 ### Project 3: Fine Art
 **Description:** Its a art related website.Here you can see you many kind of art,add art,update art and delete art.
@@ -49,7 +49,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 ![Project 3 Screenshot](https://i.ibb.co/fdj9Mxh/Art.png)
 
-[Live link](https://66352b13240d76341ce98582--magical-crisp-1c5563.netlify.app/)
+[Go to Fine Art web site](https://66352b13240d76341ce98582--magical-crisp-1c5563.netlify.app/)
 
 ## 📚 Education
 
