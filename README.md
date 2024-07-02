@@ -60,7 +60,6 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 ## 🎨 Hobbies and Interests
 
 - Coding 💻
-- Blogging 📝
 - Music 🎵
 - Traveling 🌍
 
@@ -68,14 +67,4 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 *This README was generated with ❤️ by [Ziam Chowdhury Noun](https://github.com/ziamnoun).*
 
-
-## 🎨 Hobbies and Interests
-
-- Coding 💻
-- Music 🎵
-- Traveling 🌍
-
----
-
-*This README was generated with ❤️ by [Your Name](https://github.com/ziamnoun).*
 
