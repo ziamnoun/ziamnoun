@@ -38,8 +38,8 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 ## 📫 Contact Me
 
 - **Email:** [ziamziam05@gmail.com](mailto:ziamziam05@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ziam-chowdhury-noun-2625582a3/)
-- **Facebook:** [Your Facebook Profile](https://www.facebook.com/zc.noun/)
+- **LinkedIn:** [Ziam Chowdhury Noun](https://www.linkedin.com/in/ziam-chowdhury-noun-2625582a3/)
+- **Facebook:** [Ziam Chowdhury Noun](https://www.facebook.com/zc.noun/)
 
 ## 📂 Projects
 
