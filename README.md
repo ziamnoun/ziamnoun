@@ -59,6 +59,8 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 ![Project 2 Screenshot](https://i.ibb.co/p055qC2/blog.png)
 
+[Github repo link](https://github.com/ziamnoun/Blog-Mania)
+
 [Go to Blog Mania web site](https://66439e734ee140141d99ad2a--fluffy-torrone-88ede8.netlify.app/)
 
 ### Project 3: Fine Art
