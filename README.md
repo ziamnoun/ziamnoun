@@ -49,7 +49,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 ![Project 1 Screenshot](https://i.ibb.co/ckKZw7b/fitfreak.png)
 
-[Github repo link](https://github.com/programming-hero-web-course1/b9a12-client-side-ziamnoun)
+[Github repo link](https://github.com/ziamnoun/FitFreak)
 
 [Go to FitFreak web site](https://6669c73d4ca94d4efff23bbd--cerulean-bavarois-ddd558.netlify.app/)
 
