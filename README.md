@@ -51,7 +51,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 [Github repo link](https://github.com/ziamnoun/FitFreak)
 
-[Go to FitFreak web site](https://6669c73d4ca94d4efff23bbd--cerulean-bavarois-ddd558.netlify.app/)
+[Go to FitFreak web site](https://cerulean-bavarois-ddd558.netlify.app/)
 
 ### Project 2: Blog Mania
 **Description:** It is a blog related web site where we can se a vlog,add a blog,Update a blog...
