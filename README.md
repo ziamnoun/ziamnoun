@@ -71,7 +71,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 [Github repo link](https://github.com/ziamnoun/Fine-Art)
 
-[Go to Fine Art web site](https://jade-salamander-2fafef.netlify.app/)
+[Go to Fine Art web site](https://66352b13240d76341ce98582--magical-crisp-1c5563.netlify.app/)
 
 ## 📚 Education
 
