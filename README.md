@@ -69,7 +69,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 **Description:** It is a blog-related website where we can see a vlog, add a blog, and update a blog...
 **Technologies:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
 
-![Project 2 Screenshot](https://i.ibb.co/p055qC2/blog.png)
+![Project 3 Screenshot](https://i.ibb.co/p055qC2/blog.png)
 
 [Github repo link](https://github.com/ziamnoun/Blog-Mania)
 
@@ -79,7 +79,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 **Description:** It's an art-related website. Here you can see many kinds of art, add art, update art, and delete art.
 **Technologies:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
 
-![Project 3 Screenshot](https://i.ibb.co/fdj9Mxh/Art.png)
+![Project 4 Screenshot](https://i.ibb.co/fdj9Mxh/Art.png)
 
 [Github repo link](https://github.com/ziamnoun/Fine-Art)
 
