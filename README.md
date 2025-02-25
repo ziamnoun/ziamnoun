@@ -8,7 +8,6 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 ## 🛠️ Skills
 
-
 - **Languages:**
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -17,6 +16,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 - **Frameworks/Libraries:**
   ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 
 - **Tools:**
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -53,8 +53,20 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 [Go to FitFreak web site](https://cerulean-bavarois-ddd558.netlify.app/)
 
-### Project 2: Blog Mania
-**Description:** It is a blog related web site where we can se a vlog,add a blog,Update a blog...
+
+### Project 2: Haven Stay
+**Description:** Haven Stay is a platform for booking and managing stays at various accommodations.
+**Technologies:** Next.js, React, MongoDB, Tailwind CSS
+
+![Project 4 Screenshot](https://i.ibb.co.com/nNj1vnxR/saveeeee.png)
+
+[Github repo link](https://github.com/ziamnoun/Haven-Stay)
+
+[Go to Haven Stay web site](https://haven-stay-beta.vercel.app/)
+
+
+### Project 3: Blog Mania
+**Description:** It is a blog-related website where we can see a vlog, add a blog, and update a blog...
 **Technologies:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
 
 ![Project 2 Screenshot](https://i.ibb.co/p055qC2/blog.png)
@@ -63,8 +75,8 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 [Go to Blog Mania web site](https://66439e734ee140141d99ad2a--fluffy-torrone-88ede8.netlify.app/)
 
-### Project 3: Fine Art
-**Description:** Its a art related website.Here you can see you many kind of art,add art,update art and delete art.
+### Project 4: Fine Art
+**Description:** It's an art-related website. Here you can see many kinds of art, add art, update art, and delete art.
 **Technologies:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
 
 ![Project 3 Screenshot](https://i.ibb.co/fdj9Mxh/Art.png)
@@ -72,6 +84,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 [Github repo link](https://github.com/ziamnoun/Fine-Art)
 
 [Go to Fine Art web site](https://66352b13240d76341ce98582--magical-crisp-1c5563.netlify.app/)
+
 
 ## 📚 Education
 
@@ -88,5 +101,3 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 ---
 
 *This README was generated with ❤️ by [Ziam Chowdhury Noun](https://github.com/ziamnoun).*
-
-
