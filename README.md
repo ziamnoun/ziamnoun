@@ -58,7 +58,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 **Description:** Haven Stay is a platform for booking and managing stays at various accommodations.
 **Technologies:** Next.js, React, MongoDB, Tailwind CSS
 
-![Project 4 Screenshot](https://i.ibb.co.com/20w1Ldbt/saveeeee.png)
+![Project 2 Screenshot](https://i.ibb.co.com/20w1Ldbt/saveeeee.png)
 
 [Github repo link](https://github.com/ziamnoun/HavenStay)
 
