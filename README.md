@@ -60,7 +60,7 @@ I am Ziam Chowdhury Noun, currently studying Mechatronics Engineering at Rajshah
 
 ![Project 4 Screenshot](https://i.ibb.co.com/nNj1vnxR/saveeeee.png)
 
-[Github repo link](https://github.com/ziamnoun/Haven-Stay)
+[Github repo link](https://github.com/ziamnoun/HavenStay)
 
 [Go to Haven Stay web site](https://haven-stay-beta.vercel.app/)
 
